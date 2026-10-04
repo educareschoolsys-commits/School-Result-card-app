@@ -1,0 +1,6 @@
+{
+  "name": "Educare School System Chagmalai",
+  "description": "Official student result card maker for Educare School System Chagmalai with Excel (.xlsx/.xls) import, auto grade calculations, live preview, and print-ready A4 PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
